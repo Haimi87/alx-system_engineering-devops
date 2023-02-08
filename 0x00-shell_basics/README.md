@@ -1,1 +1,1 @@
-current directory contents in a long forma
+current directory contents, including hidden files
