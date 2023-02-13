@@ -1,1 +1,1 @@
-script that duplicates the last line of the file 
+An acrostic is a poem
