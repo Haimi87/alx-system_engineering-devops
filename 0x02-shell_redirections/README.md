@@ -1,1 +1,1 @@
-Display the first 10 lines of /etc/passwd
+Write a script that writes into the file ls_cwd_content
