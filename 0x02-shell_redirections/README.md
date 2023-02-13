@@ -1,1 +1,1 @@
-isplay all the lines in the file
+Write a script that prints “Hello, World”,
