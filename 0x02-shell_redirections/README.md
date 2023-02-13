@@ -1,1 +1,1 @@
-Write a script that prints “Hello, World”,
+Create a script that removes all letters c and C from input
