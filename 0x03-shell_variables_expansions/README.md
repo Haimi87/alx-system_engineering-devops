@@ -1,1 +1,1 @@
-reate a script that prints hello user
+dd /action to the PATH
