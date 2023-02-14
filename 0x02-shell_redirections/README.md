@@ -1,1 +1,1 @@
-An acrostic is a poem
+Write a script that displays a confused smiley
